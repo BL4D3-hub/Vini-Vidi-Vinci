@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conhecimento sobre a amizade</title>
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+    <link rel="stylesheet" href="style_exercise_css">
+</head>
+<body>
+ <header>
+   <div class="a">
+    <div class="q">
+        <p class="p">data</p>|
+        <p class="p">editora</p>
+    </div>
+    <nav class="n">
+     <a href="">ideias</a>|
+     <a href="">exercícios</a>|
+     <a href="">experiências</a>|
+    </nav>
+    
+     <p class="p1">esquema de feed</p>
+     <p title="personalise seu feed" class="p2">personalizar</p>
+   </div>
+   <nav>
+       <select name="sobre" id="sobre" class="a5">
+           <a href="">
+            <option value="option 01.0">sobre</option></a>
+           <a href="http://google.com">
+           <a href="">
+            <option value="option 01">autores</option></a>
+           <a href="http://google.com"> 
+            <option value="option 02">escola publicada</option>
+           </a>
+           <a href="">
+            <option value="option 03">Ano de formação</option>
+           </a>
+           <a href="">
+            <option value="option 04">endereço</option>
+           </a>
+        </select>
+    </nav> 
+ </header>
+ <main>
+    <section>
+        <h1>Amizade</h1>
+        <div class="d">
+            <p>A amizade é uma das relações humanas mais importantes, mas ela assume formas diferentes dependendo do contexto em que acontece. No fórum estudantil, no trabalho e na família, a amizade tem funções, limites e impactos distintos — e entender isso ajuda a construir relações mais saudáveis e duradouras.</p>
+        </div>
+        <h1>Amizade no forum estudantil</h1>
+        <p>No ambiente estudantil (escola, universidade, cursos), a amizade costuma nascer da convivência diária, interesses comuns e desafios partilhados.</p>
+        <div class="f">
+                <ul>
+                <legend>Características</legend>
+                <li>
+                    Surge de forma natural e espontânea
+                </li>
+                <li>
+                 Geralmente é mais leve e descontraída
+                </li>
+                <li>
+                Pode ser temporária (algumas amizades acabam após o curso)
+                </li>
+            </ul>
+        </div>
+        <div class="g">
+            <ul>
+                <legend>Importância</legend>
+                <li>
+                    Facilita o aprendizado em grupo
+                </li>
+                <li>
+                    Oferece apoio emocional em momentos de pressão (provas, trabalhos)
+                </li>
+                <li>
+                   Ajuda na motivação para estudar 
+                </li>
+                <li>
+                    Desenvolve habilidades sociais
+                </li>
+            </ul>
+        </div>  
+        <div class="h">
+            <ul>
+                <legend> Riscos e desafios</legend>
+                <li>
+                   Influência negativa (más companhias)
+                </li>
+                <li>
+                    Distrações que prejudicam o desempenho
+                </li>
+                <li>
+                   Rivalidade académica 
+                </li>
+                <footer>Exemplo: colegas que estudam juntos, fazem trabalhos em grupo e se apoiam durante exames.</footer>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <h1>Amizade no forum de trabalho</h1>
+        <div  class="F">
+            <p>No ambiente profissional, a amizade precisa de mais equilíbrio, pois envolve responsabilidades, hierarquia e objetivos organizacionais.</p>
+            <ul>
+                <legend>Características</legend>
+                <li> Baseada em respeito profissional</li>
+                <li>Deve ter limites claros</li>
+                <li>Envolve confiança e cooperação</li>
+                <li>Pode evoluir para amizade pessoal fora do trabalho</li>
+            </ul>
+        </div>
+        <div class="G">
+            <ul>
+            <legend>Immportância</legend> ffg
+                <li>Melhora o ambiente de trabalho</li>
+                <li>Aumenta a produtividade</li>
+                <li>Facilita o trabalho em equipa</li>
+                <li>Reduz o stress</li>
+            </ul>
+        </div>
+        <div class="H">
+            <ul>
+                <legend>Riscos e desafios</legend>
+                <li>Conflitos de interesse</li>
+                <li>Favoritismo</li>
+                <li>Mistura excessiva entre vida pessoal e profissional</li>
+                <li>Dificuldade em separar amizade de decisões profissionais</li>
+                <footer>Exemplo: colegas que colaboram bem, se ajudam em tarefas e mantêm respeito mesmo em situações de pressão.</footer>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <h1>Amizade no forum familiar</h1>
+        <div>
+            <p>A amizade dentro da família é diferente porque já existe um vínculo de sangue ou convivência desde cedo. Aqui, a amizade complementa o amor familiar.</p>
+            <ul>
+                <legend>Características</legend>
+                <li>Baseada em confiança profunda</li>
+                <li>Relação mais duradoura e estável</li>
+                <li>Envolve apoio incondicional</li>
+                <li>Pode existir entre irmãos, pais e filhos, primos, etc.</li>
+            </ul>
+            <ul>
+                <legend>Importânciaa</legend>
+                <li>Fortalece os laços familiares</li>
+                <li>Cria um ambiente de segurança emocional</li>
+                <li>Ajuda na resolução de conflitos</li>
+                <li>Facilita a comunicação</li>
+            </ul>
+            <ul>
+                <legend>Riscos e desafios</legend>
+                <li>Conflitos por convivência constante</li>
+                <li>Falta de limites ou excesso de intimidade</li>
+                <li>Dificuldade em separar papéis (ex: pai vs amigo)</li>
+            <footer>Exemplo: irmãos que além de família, são confidentes e partilham segredos e experências. </footer>
+            </ul>
+        </div>
+        <aside>
+            <div>
+
+            </div>
+        </aside>
+        <div>
+            <div>
+                <div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <aside>
+
+    </aside>
+   </main>
+   <footer>
+        <span>A amizade é essencial em qualquer área da vida, mas precisa ser adaptada ao contexto:</span>
+        <ul>
+        <li>No estudo: ajuda a crescer e aprender</li>
+        <li>No trabalho: fortalece o desempenho e o ambiente</li>
+        <li>Na família: cria segurança e união</li>
+        </ul>
+        <p>Uma boa amizade, em qualquer ambiente, deve ser construída com:</p>
+        <ul>✔ Respeito
+        ✔ Confiança
+        ✔ Comunicação
+        ✔ Empatia
+        </ul>
+   </footer>
+</body>
+</html>
