@@ -49,7 +49,12 @@
             <p>A amizade é uma das relações humanas mais importantes, mas ela assume formas diferentes dependendo do contexto em que acontece. No fórum estudantil, no trabalho e na família, a amizade tem funções, limites e impactos distintos — e entender isso ajuda a construir relações mais saudáveis e duradouras.</p>
         </div>
         <h1>Amizade no forum estudantil</h1>
-        <p>No ambiente estudantil (escola, universidade, cursos), a amizade costuma nascer da convivência diária, interesses comuns e desafios partilhados.</p>
+        <div class="Z">
+            A amizade escolar
+        </div>
+        <div class="x">
+            <p>No ambiente estudantil (escola, universidade, cursos), a amizade costuma nascer da convivência diária, interesses comuns e desafios partilhados.</p>
+        </div>
         <div class="f">
                 <ul>
                 <legend>
@@ -198,7 +203,7 @@
 
     </aside>
    </main>
-   <footer>
+   <footer class="z">
         <span>A amizade é essencial em qualquer área da vida, mas precisa ser adaptada ao contexto:</span>
         <ul>
         <li>No estudo: ajuda a crescer e aprender</li>

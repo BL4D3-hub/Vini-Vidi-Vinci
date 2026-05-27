@@ -74,7 +74,7 @@ div::-webkit-scrollbar {
     color:rgb(10, 47, 79);
     height: 162px;
     position: absolute;
-    top: 500px;
+    top: 900px;
     border-radius: 25px;
 }
 .g{
@@ -83,7 +83,7 @@ div::-webkit-scrollbar {
    background-color: rgb(255, 255, 255);
    color:rgb(10, 47, 79);
    position: absolute;
-   top: 500px;
+   top: 900px;
    left: 400px;
    border-radius: 25px;
 }
@@ -92,7 +92,7 @@ div::-webkit-scrollbar {
     background-color: rgb(255, 255, 255);
     color:rgb(10, 47, 79);
     position: absolute;
-    top: 500px;
+    top: 900px;
     left: 800px;
     border-radius: 25px;
 }
@@ -170,6 +170,13 @@ div::-webkit-scrollbar {
     position: absolute;
     top: 1000px;
 }
-.G::-webkit-scrollbar-thumb {
-    background-color: brown;
+.z{
+    visibility: hidden;
+}
+.x{
+    width: 50%;
+    font-size: larger;
+}
+.Z{
+    background-image:url();
 }
