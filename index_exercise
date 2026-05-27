@@ -52,7 +52,9 @@
         <p>No ambiente estudantil (escola, universidade, cursos), a amizade costuma nascer da convivência diária, interesses comuns e desafios partilhados.</p>
         <div class="f">
                 <ul>
-                <legend>Características</legend>
+                <legend>
+                    <h4>Características</h4>
+                </legend>
                 <li>
                     Surge de forma natural e espontânea
                 </li>
@@ -66,7 +68,9 @@
         </div>
         <div class="g">
             <ul>
-                <legend>Importância</legend>
+                <legend>
+                   <h4>Importância</h4>
+                </legend>
                 <li>
                     Facilita o aprendizado em grupo
                 </li>
@@ -83,7 +87,9 @@
         </div>  
         <div class="h">
             <ul>
-                <legend> Riscos e desafios</legend>
+                <legend> 
+                   <h4>Riscos e desafios</h4>
+                </legend>
                 <li>
                    Influência negativa (más companhias)
                 </li>
@@ -98,29 +104,37 @@
         </div>
     </section>
     <section>
-        <h1>Amizade no forum de trabalho</h1>
-        <div  class="F">
+        <div class="hq">
+            <h1>Amizade no forum de trabalho</h1>
             <p>No ambiente profissional, a amizade precisa de mais equilíbrio, pois envolve responsabilidades, hierarquia e objetivos organizacionais.</p>
+        </div>
+        <div  class="H">
             <ul>
-                <legend>Características</legend>
+                <legend>
+                    <h4>Características</h4>
+                </legend>
                 <li> Baseada em respeito profissional</li>
                 <li>Deve ter limites claros</li>
                 <li>Envolve confiança e cooperação</li>
                 <li>Pode evoluir para amizade pessoal fora do trabalho</li>
             </ul>
         </div>
-        <div class="G">
+        <div class="F">
             <ul>
-            <legend>Immportância</legend> ffg
+            <legend>
+                <h4>Importância</h4>
+            </legend>
                 <li>Melhora o ambiente de trabalho</li>
                 <li>Aumenta a produtividade</li>
                 <li>Facilita o trabalho em equipa</li>
                 <li>Reduz o stress</li>
             </ul>
         </div>
-        <div class="H">
+        <div class="G">
             <ul>
-                <legend>Riscos e desafios</legend>
+                <legend>
+                    <h4>Riscos e desafios</h4>
+                </legend>
                 <li>Conflitos de interesse</li>
                 <li>Favoritismo</li>
                 <li>Mistura excessiva entre vida pessoal e profissional</li>
@@ -130,25 +144,37 @@
         </div>
     </section>
     <section>
-        <h1>Amizade no forum familiar</h1>
-        <div>
+        <div class="hw">
+            <h1>Amizade no forum familiar</h1>       
             <p>A amizade dentro da família é diferente porque já existe um vínculo de sangue ou convivência desde cedo. Aqui, a amizade complementa o amor familiar.</p>
-            <ul>
-                <legend>Características</legend>
+        </div>
+        <div class="J">
+             <ul>
+                <legend>
+                <h4>Características</h4>
+                </legend>
                 <li>Baseada em confiança profunda</li>
                 <li>Relação mais duradoura e estável</li>
                 <li>Envolve apoio incondicional</li>
                 <li>Pode existir entre irmãos, pais e filhos, primos, etc.</li>
-            </ul>
-            <ul>
-                <legend>Importânciaa</legend>
+             </ul>
+        </div>
+        <div class="K">
+             <ul>
+                <legend>
+                    <h4>Importância</h4>
+                </legend>
                 <li>Fortalece os laços familiares</li>
                 <li>Cria um ambiente de segurança emocional</li>
                 <li>Ajuda na resolução de conflitos</li>
                 <li>Facilita a comunicação</li>
-            </ul>
+             </ul>
+            </div>
+        <div class="L">
             <ul>
-                <legend>Riscos e desafios</legend>
+                <legend>
+                <h4>Riscos e desafios</h4>
+                </legend>
                 <li>Conflitos por convivência constante</li>
                 <li>Falta de limites ou excesso de intimidade</li>
                 <li>Dificuldade em separar papéis (ex: pai vs amigo)</li>
